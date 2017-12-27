@@ -1,0 +1,5 @@
+In Python you can: using Tkinter (or other widget sets), you can write user applications that use graphics rather than just text to interact with the user.
+In Python you can: You can extend other programs like Blender (a 3D modeling program), GIMP (a 2D photo-retouching program), and LibreOffice (office programs), among many others by writing custom scripts.
+In Python you can: You can write games with graphics using Tkinter or the Pygame or Kivy libraries. The games in this book are text only.
+In Python you can: You can use the matplotlib library to draw complex graphs for your math or science courses.
+In Python you can: Using the openCV library, you can experiment with computer vision. People who are into robotics use it to help their robots see and grab things and to avoid obstacles when moving.
